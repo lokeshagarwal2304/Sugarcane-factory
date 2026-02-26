@@ -1,2 +1,3 @@
 # Sugarcane-factory 
 <img width="1024" height="1536" alt="canestudio1" src="https://github.com/user-attachments/assets/843ef565-6b71-4d55-88db-057e6c3e9512" />
+...
